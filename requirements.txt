@@ -1,0 +1,6 @@
+pandas==2.2.3
+nltk==3.9.1
+matplotlib==3.9.2
+scikit-learn==1.5.2
+google-play-scraper==1.2.7
+jupyter==1.1.1
